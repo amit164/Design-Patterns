@@ -1,6 +1,7 @@
 # Design Patterns
 
 This is my implementation for some of the common Object Oriented Programming design patterns:
+
 Bridge, Class Adapter, Command, Composite, Factory, Interpreter, Object Adapter, Observer and Proxy.
 
 
