@@ -12,6 +12,8 @@ The Bridge uses encapsulation, aggregation, and can use inheritance to separate 
 -Wikipedia
 
 UML for my implementation:
+
+
 ![Bridge](https://i.imgur.com/hdh0Itp.png)
 
 ## Command
@@ -21,4 +23,6 @@ the command pattern is a behavioral design pattern in which an object is used to
 -Wikipedia
 
 UML for my implementation:
+
+
 ![Command](https://i.imgur.com/6MhmUR0.png)
