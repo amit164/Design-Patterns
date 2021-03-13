@@ -5,13 +5,13 @@ This is my implementation for some of the common Object Oriented Programming des
 * Bridge
 * Command
 * Observer
-* Class Adapter
-* Composite
-* Factory
-* Object Adapter
 * Proxy
+* Composite
 * Interpreter
+* Factory
+* Class Adapter
 * Object Adapter
+
 
 
 ## Bridge
