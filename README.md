@@ -76,3 +76,15 @@ In class-based programming, the factory method pattern is a creational pattern t
 -Wikipedia
 
 ![Factory](https://i.imgur.com/vlShqav.png)
+
+## Adapter
+In software engineering, the adapter pattern is a software design pattern that allows the interface of an existing class to be used as another interface. It is often used to make existing classes work with others without modifying their source code.
+
+-Wikipedia
+
+### Class Adapter
+![Class Adapter]()
+
+### Object Adapter
+![Object Adapter]()
+
