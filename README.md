@@ -83,7 +83,7 @@ In software engineering, the adapter pattern is a software design pattern that a
 -Wikipedia
 
 ### Class Adapter
-![Class Adapter]([img]https://i.imgur.com/3UBVEvU.png[/img])
+![Class Adapter](https://imgur.com/3UBVEvU)
 
 ### Object Adapter
 ![Object Adapter]()
