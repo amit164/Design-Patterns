@@ -12,7 +12,7 @@ This is my implementation for some of the common Object Oriented Programming des
 * Class Adapter
 * Object Adapter
 
-
+Note: The code implements the basic idea of the design pattern and does not aim to create a project in and of itself. 
 
 ## Bridge
 The Bridge pattern is a design pattern used in software engineering that is meant to “decouple an abstraction from it’s implementation so that the two can vary independently”.
